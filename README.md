@@ -1,6 +1,6 @@
 # Traefik.
 
-This package allows you to deploy a traefik ingress-controller to your cluster.
+This package allows you to deploy a traefik ingress-controller to your cluster (cloud oriented).
 
 ## Version
 
