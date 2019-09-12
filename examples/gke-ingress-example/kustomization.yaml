@@ -1,0 +1,8 @@
+---
+namespace: kube-system
+bases:
+- "../../base"
+patches:
+- service.yaml
+resources:
+- ingress.yaml
