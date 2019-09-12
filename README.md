@@ -5,7 +5,7 @@ This package allows you to deploy a traefik ingress-controller to your cluster (
 ## Version
 
 * Package: v1.0.0
-* App: v2.0
+* App: v1.7
 
 ## Details
 
