@@ -9,7 +9,7 @@ spec:
   rules:
   - http:
       paths:
-      - path: /admin
+      - path: /
         backend:
           serviceName: traefik-admin-service
           servicePort: 8080
