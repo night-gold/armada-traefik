@@ -6,3 +6,5 @@ patches:
 - service.yaml
 resources:
 - ingress.yaml
+- admin-ingress.yaml
+- admin-service.yaml
