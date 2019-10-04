@@ -2,7 +2,7 @@
 kind: Service
 apiVersion: v1
 metadata:
-  name: traefik-ingress-service
+  name: traefik-ingress-service-test
 spec:
   selector:
     k8s-app: traefik-ingress-lb
